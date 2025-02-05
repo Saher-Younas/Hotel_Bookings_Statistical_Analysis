@@ -96,7 +96,6 @@ To validate findings, several hypotheses were tested:
 ## Conclusion
 This project provides a comprehensive statistical analysis of hotel bookings, offering valuable insights into **customer behavior, booking trends, and cancellation patterns**. The findings can help hotels optimize pricing strategies, reduce cancellations, and enhance customer retention.
 
-For further enhancements, additional machine learning models can be explored to predict cancellations and recommend optimal pricing strategies.
 
 
 
